@@ -50,20 +50,6 @@ This project aims to analyze the financial performance of Bayer CropScience Indi
   <li>Annual Report Analysis</li>
   <li>Data Visualization</li>
 </ul>
-
-<h2>📂 Repository Structure</h2>
-
-<pre>
-COMPREHENSIVE-FINANCIAL-STATEMENT-ANALYSIS-BAYER-CROPSCIENCE-INDIA/
-│
-├── Financial Statements
-├── Ratio Analysis
-├── Valuation Models
-├── Visualizations
-├── Report
-└── README.md
-</pre>
-
 <h2>🔍 Analysis Highlights</h2>
 
 <ul>
